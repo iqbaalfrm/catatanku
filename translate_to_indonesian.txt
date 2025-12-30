@@ -1,0 +1,79 @@
+TRANSLATION MAPPING - INDONESIAN
+
+=== MAIN LAYOUT ===
+Dashboard -> Dasbor
+Tasks -> Tugas
+Ideas -> Ide
+Daily Logs -> Catatan Harian
+Personal Productivity Hub -> Hub Produktivitas Personal
+Productivity Hub -> Hub Produktivitas
+
+=== DASHBOARD ===
+Welcome to your productivity hub -> Selamat datang di hub produktivitas Anda
+Active Tasks -> Tugas Aktif
+Completed Today -> Selesai Hari Ini
+Completion Rate -> Tingkat Penyelesaian
+Total Tasks -> Total Tugas
+Activity (Last 7 Days) -> Aktivitas (7 Hari Terakhir)
+Tasks Summary -> Ringkasan Tugas
+Completed -> Selesai
+Pending -> Menunggu
+Tips & Motivation -> Motivasi & Tips
+Fantastic work! You're crushing your goals! -> Luar biasa! Anda sedang mencapai tujuan!
+Great progress! Keep up the momentum! -> Kemajuan bagus! Lanjutkan momentum!
+You're on your way! Keep going! -> Anda sedang dalam perjalanan! Terus maju!
+Start small, dream big! -> Mulai dari kecil, bermimpi besar!
+
+=== TASK MANAGER ===
+Task Management -> Manajemen Tugas
+Organize and track your daily tasks -> Atur dan lacak tugas harian Anda
+Add New Task -> Tambah Tugas Baru
+Task Title -> Judul Tugas
+Description -> Deskripsi
+Due Date -> Tanggal Jatuh Tempo
+Priority -> Prioritas
+Select Priority -> Pilih Prioritas
+Low -> Rendah
+Medium -> Sedang
+High -> Tinggi
+Submit -> Kirim
+Filter by Status -> Filter Berdasarkan Status
+All Tasks -> Semua Tugas
+Active Tasks -> Tugas Aktif
+Completed Tasks -> Tugas Selesai
+Sort By -> Urutkan Berdasarkan
+Created Date -> Tanggal Dibuat
+Due Date -> Tanggal Jatuh Tempo
+No tasks yet -> Belum ada tugas
+Mark Complete -> Tandai Selesai
+Mark Incomplete -> Tandai Belum Selesai
+Delete -> Hapus
+
+=== IDEA MANAGER ===
+Idea Lab -> Lab Ide
+Create and organize your ideas into actionable projects -> Buat dan atur ide Anda menjadi proyek yang dapat ditindaklanjuti
+Create New Idea -> Buat Ide Baru
+Idea Title -> Judul Ide
+No ideas yet -> Belum ada ide
+Open Kanban -> Buka Kanban
+Delete Idea -> Hapus Ide
+
+=== IDEA KANBAN ===
+Kanban Board -> Papan Kanban
+Task List -> Daftar Tugas
+Add Task -> Tambah Tugas
+To Do -> Akan Dikerjakan
+In Progress -> Sedang Dikerjakan
+Done -> Selesai
+Complete -> Selesaikan
+Move Back -> Kembalikan
+Complete Task -> Selesaikan Tugas
+Completed on -> Selesai pada
+Back to Ideas -> Kembali ke Ide
+
+=== DAILY LOGS ===
+Daily Logs -> Catatan Harian
+Your achievement history -> Riwayat pencapaian Anda
+No completions yet -> Belum ada penyelesaian
+Completed at -> Selesai pada
+Related Idea -> Ide Terkait
